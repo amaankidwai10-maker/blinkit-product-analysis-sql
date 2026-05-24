@@ -1,0 +1,4 @@
+SELECT 
+SUM(CASE WHEN product IS NULL THEN 1 ELSE 0 END) AS missing_product,
+SUM(CASE WHEN category IS NULL THEN 1 ELSE 0 END) AS missing_category
+FROM blinkitproducts;

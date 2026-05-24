@@ -1,0 +1,33 @@
+-- Highest Rated Brands
+SELECT brand,
+ROUND(AVG(cleaned_rating),2) AS avg_rating,
+COUNT(*) AS total_products
+FROM blinkitproducts
+GROUP BY brand
+HAVING total_products > 5
+ORDER BY avg_rating DESC
+LIMIT 10;
+
+-- Biggest Discounts
+SELECT product,
+market_price,
+sale_price,
+(market_price - sale_price) AS discount_amount
+FROM blinkitproducts
+ORDER BY discount_amount DESC
+LIMIT 15;
+
+-- Category Analysis
+SELECT category,
+ROUND(AVG(rating)) AS avg_rating
+FROM blinkitproducts
+GROUP BY category
+ORDER BY avg_rating DESC;
+
+-- Revenue Estimation
+SELECT brand,
+SUM(sale_price) AS estimated_revenue
+FROM blinkitproducts
+GROUP BY brand
+ORDER BY estimated_revenue DESC
+LIMIT 10;

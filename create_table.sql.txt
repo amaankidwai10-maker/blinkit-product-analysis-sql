@@ -1,0 +1,11 @@
+CREATE TABLE blinkitproducts (
+    product_id INT,
+    product VARCHAR(255),
+    category VARCHAR(100),
+    sub_category VARCHAR(100),
+    brand VARCHAR(100),
+    sale_price DECIMAL(10,2),
+    market_price DECIMAL(10,2),
+    type VARCHAR(100),
+    rating DECIMAL(3,1)
+);
