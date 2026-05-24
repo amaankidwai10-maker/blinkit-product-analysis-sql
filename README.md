@@ -267,21 +267,3 @@ ORDER BY estimated_revenue DESC;
 # Author
 
 Amaan Kidwai
-
-<img width="378" height="265" alt="Image" src="https://github.com/user-attachments/assets/86f47ef4-eb15-424d-8f50-ba36e4a84b3a" />
-<img width="297" height="260" alt="Image" src="https://github.com/user-attachments/assets/64da2310-0f6d-47ca-93be-ca76c6917a35" />
-<img width="286" height="262" alt="Image" src="https://github.com/user-attachments/assets/90f5d5e5-97a6-474e-b4e0-fdc859401a9b" />
-<img width="655" height="349" alt="Image" src="https://github.com/user-attachments/assets/77986de0-4ad2-498a-895f-d611d9cbb38c" />
-<img width="253" height="254" alt="Image" src="https://github.com/user-attachments/assets/3eda139b-20c1-48d3-aa00-ef36c2d1f873" />
-<img width="313" height="270" alt="Image" src="https://github.com/user-attachments/assets/602f2ae2-5db1-42e3-b4b0-f886c34b7661" />
-<img width="1284" height="268" alt="Image" src="https://github.com/user-attachments/assets/ab9a5b98-8468-4f66-925d-6888f805b6cf" />
-<img width="465" height="601" alt="Image" src="https://github.com/user-attachments/assets/5673b65f-b4af-4517-9fd3-7d1905ee43a7" />
-<img width="351" height="240" alt="Image" src="https://github.com/user-attachments/assets/ba431116-8039-4918-8173-96101d04d9db" />
-<img width="491" height="57" alt="Image" src="https://github.com/user-attachments/assets/beba9863-58c1-445a-a43e-8d94c34a4381" />
-<img width="551" height="241" alt="Image" src="https://github.com/user-attachments/assets/c33f9388-675c-4aa7-ae80-1d6c7f9ba5f1" />
-<img width="338" height="240" alt="Image" src="https://github.com/user-attachments/assets/e50ef6af-1351-4789-86cf-65a727cf077f" />
-<img width="254" height="112" alt="Image" src="https://github.com/user-attachments/assets/e1b1400d-468a-4b62-abfc-854dc866fffd" />
-<img width="427" height="250" alt="Image" src="https://github.com/user-attachments/assets/ec9809cb-795a-47af-b479-fc966d321cbd" />
-<img width="266" height="245" alt="Image" src="https://github.com/user-attachments/assets/b022bc09-a15c-4eff-88cd-e082bc5d98d2" />
-<img width="484" height="247" alt="Image" src="https://github.com/user-attachments/assets/d55c05b9-0980-4583-9bcb-ed1ac2a74f1a" />
-<img width="611" height="74" alt="Image" src="https://github.com/user-attachments/assets/c9ddf3ae-2649-4202-be64-73e8c99f8bf9" />
