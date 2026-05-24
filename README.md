@@ -121,106 +121,115 @@ blinkit-product-analysis-sql/
 
 # Screenshots
 
+<div align="center">
+
+# Database Setup & Data Import
+
 ## 1. Dataset Preview
 
-![Dataset Preview](screenshots/data_preview.png)
+<img width="655" height="349" alt="Dataset Preview" src="https://github.com/user-attachments/assets/77986de0-4ad2-498a-895f-d611d9cbb38c" />
 
 ---
 
 ## 2. Table Structure
 
-![Table Structure](screenshots/table_structure.png)
+<img width="611" height="74" alt="Table Structure" src="https://github.com/user-attachments/assets/c9ddf3ae-2649-4202-be64-73e8c99f8bf9" />
 
 ---
 
 ## 3. Total Products Analysis
 
-![Total Products](screenshots/total_products.png)
+<img width="491" height="57" alt="Total Products" src="https://github.com/user-attachments/assets/beba9863-58c1-445a-a43e-8d94c34a4381" />
 
 ---
 
+# Data Cleaning Analysis
+
 ## 4. Missing Values Analysis
 
-![Missing Values Analysis](screenshots/missing_values_analysis.png)
+<img width="551" height="241" alt="Missing Values Analysis" src="https://github.com/user-attachments/assets/c33f9388-675c-4aa7-ae80-1d6c7f9ba5f1" />
 
 ---
 
 ## 5. Duplicate Products Check
 
-![Duplicate Products](screenshots/duplicate_products.png)
+<img width="465" height="601" alt="Duplicate Products Check" src="https://github.com/user-attachments/assets/5673b65f-b4af-4517-9fd3-7d1905ee43a7" />
 
 ---
 
+# Business KPI Analysis
+
 ## 6. Highest Rated Brands
 
-![Highest Rated Brands](screenshots/highest_rated_brands.png)
+<img width="378" height="265" alt="Highest Rated Brands" src="https://github.com/user-attachments/assets/86f47ef4-eb15-424d-8f50-ba36e4a84b3a" />
 
 ---
 
 ## 7. Most Expensive Products
 
-![Most Expensive Products](screenshots/most_expensive_products.png)
+<img width="297" height="260" alt="Most Expensive Products" src="https://github.com/user-attachments/assets/64da2310-0f6d-47ca-93be-ca76c6917a35" />
 
 ---
 
 ## 8. Biggest Discounts
 
-![Biggest Discounts](screenshots/biggest_discounts.png)
+<img width="286" height="262" alt="Biggest Discounts" src="https://github.com/user-attachments/assets/90f5d5e5-97a6-474e-b4e0-fdc859401a9b" />
 
 ---
 
 ## 9. Category-wise Product Count
 
-![Category Product Count](screenshots/category_product_count.png)
+<img width="313" height="270" alt="Category Product Count" src="https://github.com/user-attachments/assets/602f2ae2-5db1-42e3-b4b0-f886c34b7661" />
 
 ---
 
 ## 10. Average Price by Category
 
-![Average Price by Category](screenshots/average_price_by_category.png)
+<img width="351" height="240" alt="Average Price by Category" src="https://github.com/user-attachments/assets/ba431116-8039-4918-8173-96101d04d9db" />
 
 ---
 
 ## 11. Best Rated Categories
 
-![Best Rated Categories](screenshots/best_rated_categories.png)
+<img width="338" height="240" alt="Best Rated Categories" src="https://github.com/user-attachments/assets/e50ef6af-1351-4789-86cf-65a727cf077f" />
 
 ---
 
 ## 12. Top Brands by Product Count
 
-![Top Brands](screenshots/top_brands_by_products.png)
+<img width="427" height="250" alt="Top Brands by Product Count" src="https://github.com/user-attachments/assets/ec9809cb-795a-47af-b479-fc966d321cbd" />
 
 ---
 
 ## 13. Premium Products Analysis
 
-![Premium Products Analysis](screenshots/premium_products_analysis.png)
+<img width="266" height="245" alt="Premium Products Analysis" src="https://github.com/user-attachments/assets/b022bc09-a15c-4eff-88cd-e082bc5d98d2" />
 
 ---
 
 ## 14. Rating Distribution
 
-![Rating Distribution](screenshots/rating_distribution.png)
+<img width="254" height="112" alt="Rating Distribution" src="https://github.com/user-attachments/assets/e1b1400d-468a-4b62-abfc-854dc866fffd" />
 
 ---
 
 ## 15. Average Discount Percentage
 
-![Average Discount Percentage](screenshots/average_discount_percentage.png)
+<img width="484" height="247" alt="Average Discount Percentage" src="https://github.com/user-attachments/assets/d55c05b9-0980-4583-9bcb-ed1ac2a74f1a" />
 
 ---
 
 ## 16. Top Rated Products
 
-![Top Rated Products](screenshots/top_rated_products.png)
+<img width="253" height="254" alt="Top Rated Products" src="https://github.com/user-attachments/assets/3eda139b-20c1-48d3-aa00-ef36c2d1f873" />
 
 ---
 
 ## 17. Brand Revenue Estimation
 
-![Brand Revenue Estimation](screenshots/brand_revenue_estimation.png)
+<img width="1284" height="268" alt="Brand Revenue Estimation" src="https://github.com/user-attachments/assets/ab9a5b98-8468-4f66-925d-6888f805b6cf" />
 
+</div>
 ---
 
 # Sample SQL Query
