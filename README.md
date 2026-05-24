@@ -127,19 +127,19 @@ blinkit-product-analysis-sql/
 
 ## 1. Dataset Preview
 
-<img width="655" height="349" alt="Dataset Preview" src="https://github.com/user-attachments/assets/77986de0-4ad2-498a-895f-d611d9cbb38c" />
+<img width="1284" height="268" alt="Image" src="https://github.com/user-attachments/assets/ab9a5b98-8468-4f66-925d-6888f805b6cf" />
 
 ---
 
 ## 2. Table Structure
 
-<img width="611" height="74" alt="Table Structure" src="https://github.com/user-attachments/assets/c9ddf3ae-2649-4202-be64-73e8c99f8bf9" />
+<img width="427" height="250" alt="Image" src="https://github.com/user-attachments/assets/ec9809cb-795a-47af-b479-fc966d321cbd" />
 
 ---
 
 ## 3. Total Products Analysis
 
-<img width="491" height="57" alt="Total Products" src="https://github.com/user-attachments/assets/beba9863-58c1-445a-a43e-8d94c34a4381" />
+<img width="611" height="74" alt="Image" src="https://github.com/user-attachments/assets/c9ddf3ae-2649-4202-be64-73e8c99f8bf9" />
 
 ---
 
@@ -147,13 +147,13 @@ blinkit-product-analysis-sql/
 
 ## 4. Missing Values Analysis
 
-<img width="551" height="241" alt="Missing Values Analysis" src="https://github.com/user-attachments/assets/c33f9388-675c-4aa7-ae80-1d6c7f9ba5f1" />
+<img width="491" height="57" alt="Image" src="https://github.com/user-attachments/assets/beba9863-58c1-445a-a43e-8d94c34a4381" />
 
 ---
 
 ## 5. Duplicate Products Check
 
-<img width="465" height="601" alt="Duplicate Products Check" src="https://github.com/user-attachments/assets/5673b65f-b4af-4517-9fd3-7d1905ee43a7" />
+<img width="465" height="601" alt="Image" src="https://github.com/user-attachments/assets/5673b65f-b4af-4517-9fd3-7d1905ee43a7" />
 
 ---
 
@@ -161,73 +161,73 @@ blinkit-product-analysis-sql/
 
 ## 6. Highest Rated Brands
 
-<img width="378" height="265" alt="Highest Rated Brands" src="https://github.com/user-attachments/assets/86f47ef4-eb15-424d-8f50-ba36e4a84b3a" />
+<img width="351" height="240" alt="Image" src="https://github.com/user-attachments/assets/ba431116-8039-4918-8173-96101d04d9db" />
 
 ---
 
 ## 7. Most Expensive Products
 
-<img width="297" height="260" alt="Most Expensive Products" src="https://github.com/user-attachments/assets/64da2310-0f6d-47ca-93be-ca76c6917a35" />
+<img width="551" height="241" alt="Image" src="https://github.com/user-attachments/assets/c33f9388-675c-4aa7-ae80-1d6c7f9ba5f1" />
 
 ---
 
 ## 8. Biggest Discounts
 
-<img width="286" height="262" alt="Biggest Discounts" src="https://github.com/user-attachments/assets/90f5d5e5-97a6-474e-b4e0-fdc859401a9b" />
+<img width="655" height="349" alt="Image" src="https://github.com/user-attachments/assets/77986de0-4ad2-498a-895f-d611d9cbb38c" />
 
 ---
 
 ## 9. Category-wise Product Count
 
-<img width="313" height="270" alt="Category Product Count" src="https://github.com/user-attachments/assets/602f2ae2-5db1-42e3-b4b0-f886c34b7661" />
+<img width="313" height="270" alt="Image" src="https://github.com/user-attachments/assets/602f2ae2-5db1-42e3-b4b0-f886c34b7661" />
 
 ---
 
 ## 10. Average Price by Category
 
-<img width="351" height="240" alt="Average Price by Category" src="https://github.com/user-attachments/assets/ba431116-8039-4918-8173-96101d04d9db" />
+<img width="297" height="260" alt="Image" src="https://github.com/user-attachments/assets/64da2310-0f6d-47ca-93be-ca76c6917a35" />
 
 ---
 
 ## 11. Best Rated Categories
 
-<img width="338" height="240" alt="Best Rated Categories" src="https://github.com/user-attachments/assets/e50ef6af-1351-4789-86cf-65a727cf077f" />
+<img width="286" height="262" alt="Image" src="https://github.com/user-attachments/assets/90f5d5e5-97a6-474e-b4e0-fdc859401a9b" />
 
 ---
 
 ## 12. Top Brands by Product Count
 
-<img width="427" height="250" alt="Top Brands by Product Count" src="https://github.com/user-attachments/assets/ec9809cb-795a-47af-b479-fc966d321cbd" />
+<img width="266" height="245" alt="Image" src="https://github.com/user-attachments/assets/b022bc09-a15c-4eff-88cd-e082bc5d98d2" />
 
 ---
 
 ## 13. Premium Products Analysis
 
-<img width="266" height="245" alt="Premium Products Analysis" src="https://github.com/user-attachments/assets/b022bc09-a15c-4eff-88cd-e082bc5d98d2" />
+<img width="338" height="240" alt="Image" src="https://github.com/user-attachments/assets/e50ef6af-1351-4789-86cf-65a727cf077f" />
 
 ---
 
 ## 14. Rating Distribution
 
-<img width="254" height="112" alt="Rating Distribution" src="https://github.com/user-attachments/assets/e1b1400d-468a-4b62-abfc-854dc866fffd" />
+<img width="254" height="112" alt="Image" src="https://github.com/user-attachments/assets/e1b1400d-468a-4b62-abfc-854dc866fffd" />
 
 ---
 
 ## 15. Average Discount Percentage
 
-<img width="484" height="247" alt="Average Discount Percentage" src="https://github.com/user-attachments/assets/d55c05b9-0980-4583-9bcb-ed1ac2a74f1a" />
+<img width="378" height="265" alt="Image" src="https://github.com/user-attachments/assets/86f47ef4-eb15-424d-8f50-ba36e4a84b3a" />
 
 ---
 
 ## 16. Top Rated Products
 
-<img width="253" height="254" alt="Top Rated Products" src="https://github.com/user-attachments/assets/3eda139b-20c1-48d3-aa00-ef36c2d1f873" />
+<img width="484" height="247" alt="Image" src="https://github.com/user-attachments/assets/d55c05b9-0980-4583-9bcb-ed1ac2a74f1a" />
 
 ---
 
 ## 17. Brand Revenue Estimation
 
-<img width="1284" height="268" alt="Brand Revenue Estimation" src="https://github.com/user-attachments/assets/ab9a5b98-8468-4f66-925d-6888f805b6cf" />
+<img width="253" height="254" alt="Image" src="https://github.com/user-attachments/assets/3eda139b-20c1-48d3-aa00-ef36c2d1f873" />
 
 </div>
 ---
